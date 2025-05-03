@@ -4,7 +4,7 @@
 cd ~/catkin_ws/src
 
 ## 2. Clone the repo
-git clone https://github.com/Shyaam15/autonomous-robots.git
+git clone https://github.com/meghashyaam/autonomous-robots.git
 
 ## 3. Go inside the folder
 cd autonomous-robots
