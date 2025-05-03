@@ -1,6 +1,6 @@
 # autonomous-robots
 
-## 1. Traverse to catkin_ws/src folder 
+## 1. Traverse to the folder you want to clone the repo in. In most cases the folder is "catkin_ws/src" which is located in the homefolder of your linux machine. If "catkin_ws/src" isn't the folder, you can chose another folder and simply replace the path "~/catkin_ws/src" with the path to your folder.   
 cd ~/catkin_ws/src
 
 ## 2. Clone the repo
